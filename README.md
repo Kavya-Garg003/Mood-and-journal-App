@@ -1,13 +1,8 @@
-Got it 👍
-I’ve carefully read **your actual `index.html`** and below is a **README written strictly based on what your app really does**, not generic fluff.
-
-You can **directly copy-paste this into `README.md`**.
-
-I’m also explicitly referencing your uploaded file here: 
-
 ---
 
 # ✨ Mood in One Click
+
+https://mood-and-journal-app.vercel.app/
 
 A cute, interactive **mood tracking and journaling web app** built using **HTML, CSS, and vanilla JavaScript**.
 The app allows users to log their daily mood with a single emoji click, write journal entries, view mood history, track streaks, and see simple mood statistics — all stored locally in the browser.
@@ -191,12 +186,3 @@ Computer Science Engineering
 This project is created for **educational and portfolio purposes**.
 
 ---
-
-If you want next, I can:
-
-* ✨ Shorten this to a **marks-focused lab README**
-* 📸 Add **README screenshots**
-* 🧪 Add a **reflection section**
-* 📝 Rewrite this for **IEEE / academic submission**
-
-Just tell me what you need.
